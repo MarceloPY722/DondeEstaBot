@@ -1,0 +1,5 @@
+flask
+requests
+gunicorn
+python-telegram-bot>=22.7
+python-dotenv
